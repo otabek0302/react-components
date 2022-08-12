@@ -1,0 +1,19 @@
+.head_blog{
+     height: 150px;
+     width: 100%;
+     text-align: center;
+     display: block;
+     padding: 8px 16px;
+}
+.logo{
+     font-size: 18px;
+     color: rgba(255, 47, 0, 0.768);
+     font-weight: 500;
+     line-height: 24px;
+}
+.head_blog h1{
+     font-size: 35px;
+     width: 500px;
+     margin: 0 auto;
+     margin-top: 20px;
+}
